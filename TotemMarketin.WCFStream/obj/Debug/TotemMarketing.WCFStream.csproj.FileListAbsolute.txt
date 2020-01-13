@@ -1,0 +1,9 @@
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\bin\TotemMarketing.WCFStream.dll.config
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\bin\TotemMarketing.WCFStream.dll
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\bin\TotemMarketing.WCFStream.pdb
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\bin\Interop.DexterLib.dll
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\bin\stdole.dll
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\obj\Debug\TotemMarketing.WCFStream.csprojAssemblyReference.cache
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\obj\Debug\TotemMarketing.WCFStream.csproj.CopyComplete
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\obj\Debug\TotemMarketing.WCFStream.dll
+C:\Users\PSSERU-TI\Source\Repos\TotemMarketin.WCFStream\TotemMarketin.WCFStream\obj\Debug\TotemMarketing.WCFStream.pdb
